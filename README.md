@@ -8,5 +8,5 @@ I'm excited to participate in projects to strengthen my skills.
 - 🔭 I'm currently working on my personal portafolio.
 - 🌱 I'm currently learning Front-end Development.
 
-- 👯 I’m looking to collaborate on proyect
+- 👯 I’m looking to collaborate on a proyect
 - 😄 Pronouns: He/Him
