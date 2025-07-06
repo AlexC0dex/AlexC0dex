@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexC0dex&show_icons=true&theme=dracula&hide_border=true" alt="AlexC0dex’s GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexC0dex&layout=compact&theme=dracula&hide_border=true" alt="Contributions" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexC0dex&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
-</p>
 
 <h1 align="center">¡Hola, soy <a href="https://github.com/AlexC0dex">AlexC0dex</a>! 👋</h1>
 <p align="center">
@@ -27,6 +22,27 @@
   <!-- Otros lenguajes -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexC0dex&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Alex' GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexC0dex&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+---
+
+<p align="center">
+  <a href="https://github.com/AlexC0dex?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorios-5-blue?style=flat&logo=github" alt="Repositorios" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AlexC0dex?tab=followers">
+    <img src="https://img.shields.io/badge/Seguidores-1-green?style=flat&logo=github" alt="Seguidores" />
+  </a>
 </p>
 
 ---
