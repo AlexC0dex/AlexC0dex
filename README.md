@@ -16,23 +16,23 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Soy estudiante de **Ciencias de la Computación** y me especializo en **Ciencia de Datos**, **Visión por Computadora** e **integración de arquitecturas de IA**.
 
-- 🔬 He desarrollado proyectos de **Deep Learning** en reconocimiento de lenguaje de señas y detección de fracturas óseas en radiografías.
-- 💼 Tengo experiencia **Full-Stack** (Angular, C#, SQL Server) construyendo servicios de datos y dashboards analíticos.
-- 🏆 Me formé en **programación competitiva**: algoritmos, estructuras de datos y razonamiento analítico.
-- 🤖 Actualmente exploro **RAG** y chatbots con LLMs aplicados a problemas reales (ver [NutrIA](#-nutria)).
-- 🌱 Estoy profundizando en pipelines de datos, MLOps y despliegue de modelos en la nube.
+- He desarrollado proyectos de **Deep Learning** en reconocimiento de lenguaje de señas y detección de fracturas óseas en radiografías.
+- Tengo experiencia **Full-Stack** (Angular, C#, SQL Server) construyendo servicios de datos y dashboards analíticos.
+- Me formé en **programación competitiva**: algoritmos, estructuras de datos y razonamiento analítico.
+- Actualmente exploro **RAG** y chatbots con LLMs aplicados a problemas reales (ver [NutrIA](#-nutria)).
+- Estoy profundizando en pipelines de datos, MLOps y despliegue de modelos en la nube.
 
 ---
 
-## 🧰 Stack tecnológico
+## Stack tecnológico
 
 <div align="center">
 
-**🧠 Ciencia de Datos & IA**
+**Ciencia de Datos & IA**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -43,7 +43,7 @@ Soy estudiante de **Ciencias de la Computación** y me especializo en **Ciencia 
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
 
-**🌐 Desarrollo Full-Stack**
+**Desarrollo Full-Stack**
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
@@ -54,7 +54,7 @@ Soy estudiante de **Ciencias de la Computación** y me especializo en **Ciencia 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 
-**🗄️ Bases de datos, Cloud & Herramientas**
+**Bases de datos, Cloud & Herramientas**
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -70,16 +70,16 @@ Soy estudiante de **Ciencias de la Computación** y me especializo en **Ciencia 
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🥗 NutrIA
+### NutrIA
 > **Control nutricional inteligente con chatbot RAG** · [`TF-ConsultorIA`](https://github.com/TF-ConsultorIA)
 
 Plataforma para personas que quieren cuidar su alimentación:
 
-- 📅 **Planificación semanal de comidas.**
-- 🔢 **Conteo de calorías** por comida y por día.
-- 🤖 **Chatbot con RAG** que recomienda alimentos y comidas según tus **gustos, alergias** y otras preferencias personales.
+- **Planificación semanal de comidas.**
+- **Conteo de calorías** por comida y por día.
+- **Chatbot con RAG** que recomienda alimentos y comidas según tus **gustos, alergias** y otras preferencias personales.
 
 <p>
   <img src="https://img.shields.io/badge/RAG-Chatbot-2DD4BF?style=flat-square" alt="RAG"/>
@@ -91,7 +91,7 @@ Plataforma para personas que quieren cuidar su alimentación:
 
 ---
 
-### 🤟 Reconocimiento de Lenguaje de Señas
+### Reconocimiento de Lenguaje de Señas
 > **Computer Vision & Deep Learning** · [`sign-language-recognition`](https://github.com/AlexC0dex/sign-language-recognition)
 
 - Modelo de visión por computadora y redes neuronales para **clasificar y traducir gestos en tiempo real**.
@@ -105,7 +105,7 @@ Plataforma para personas que quieren cuidar su alimentación:
 
 ---
 
-### 🦴 Detección Automatizada de Fracturas Óseas
+### Detección Automatizada de Fracturas Óseas
 > **Computer Vision & Imágenes Médicas** · [`bone-fracture-classification`](https://github.com/AlexC0dex/bone-fracture-classification)
 
 - Sistema de visión artificial para **analizar radiografías** e identificar y localizar fracturas.
@@ -119,44 +119,32 @@ Plataforma para personas que quieren cuidar su alimentación:
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexC0dex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexC0dex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Lenguajes"/>
 
 <img src="https://streak-stats.demolab.com/?user=AlexC0dex&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlexC0dex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trofeos"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexC0dex&theme=tokyo-night&hide_border=true&area=true" alt="Actividad"/>
 
 </div>
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
-- 🧠 Profundizar en **Deep Learning**, **Computer Vision** y **LLMs/RAG**.
-- 🔁 Construir **pipelines de datos** end-to-end con Python y frameworks de ML.
-- ☁️ **Desplegar modelos y servicios en la nube** (Azure).
-- 🌍 Compartir conocimiento y contribuir a proyectos **Open Source**.
+- Profundizar en **Deep Learning**, **Computer Vision** y **LLMs/RAG**.
+- Construir **pipelines de datos** end-to-end con Python y frameworks de ML.
+- **Desplegar modelos y servicios en la nube** (Azure).
+- Compartir conocimiento y contribuir a proyectos **Open Source**.
 
 ---
 
-## 📫 Conectemos
+## Conectemos
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/alexander-miranda-611760297" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:alexc0dex06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/AlexC0dex"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<em>¡Gracias por visitar mi perfil! 🌟 Si algo te interesa, escríbeme.</em>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>
-
 </div>
